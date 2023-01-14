@@ -7,7 +7,7 @@
     "/home/runner/work/sdc.education_dev/sdc.education_dev/Reading/data/distribution/va_hdctsd_vdoe_2019_2021_3rd_grade_mean_median_read_score.csv.xz"
   ],
   "count": 24,
-  "utc_audited": "2023-01-14 18:38:10",
+  "utc_audited": "2023-01-14 21:18:13",
   "data": [
     {
       "name": "temp",
@@ -114,8 +114,8 @@
     {
       "name": "vdss.csv.xz",
       "path": "Daycare/data/distribution/vdss.csv.xz",
-      "md5": "aac0c5b3a066ff2dcf023264098c509b",
-      "size": 487584
+      "md5": "3125c21cff8a40774d3e2bd82c2929b4",
+      "size": 554644
     },
     {
       "name": "measure_info.json",
