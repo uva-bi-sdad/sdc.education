@@ -7,7 +7,7 @@
     "/home/runner/work/sdc.education_dev/sdc.education_dev/Daycare/data/distribution/vdss.csv.xz"
   ],
   "count": 24,
-  "utc_audited": "2023-01-29 14:20:01",
+  "utc_audited": "2023-02-09 13:43:36",
   "data": [
     {
       "name": "measure_info.json",
@@ -60,8 +60,8 @@
     {
       "name": "nces.csv.xz",
       "path": "Postsecondary/data/distribution/nces.csv.xz",
-      "md5": "ee36118b28a967e7e741fd7315b4d476",
-      "size": 12875636
+      "md5": "87d6614bc2c7b1e3f31f5f45b0401551",
+      "size": 12875828
     },
     {
       "name": "measure_info.json",
@@ -114,7 +114,7 @@
     {
       "name": "ingest_acs.R",
       "path": "Postsecondary/code/distribution/ingest_acs.R",
-      "md5": "70ff414dfa02dc74c661178d99d302e4",
+      "md5": "6b13794d6fe34ac96eed5dd0aeef2f95",
       "size": 4924
     },
     {
