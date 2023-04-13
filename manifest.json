@@ -9,7 +9,7 @@
     "/home/runner/work/sdc.education_dev/sdc.education_dev/Postsecondary/data/distribution/acs.csv.xz"
   ],
   "count": 30,
-  "utc_audited": "2023-04-06 21:21:39",
+  "utc_audited": "2023-04-13 16:36:07",
   "data": [
     {
       "name": "prepare_ncr.R",
@@ -62,8 +62,8 @@
     {
       "name": "measure_info.json",
       "path": "Reading/data/distribution/measure_info.json",
-      "md5": "b1923164dffcbfa4544d4b0906c55cc4",
-      "size": 2244
+      "md5": "912f4cf50816339004a05d9e8544a71f",
+      "size": 2242
     },
     {
       "name": "va_hdctsd_vdoe_2019_2021_3rd_grade_mean_median_read_score.csv.xz",
