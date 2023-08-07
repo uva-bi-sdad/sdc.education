@@ -19,6 +19,6 @@
         ],
         "statement": "The average gap between actual and required spending per pupil is {value} in {features.name}.",
         "type": "dollar",
-        "unit": "dollar"
+        "unit": "dollars"
     }
 }
